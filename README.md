@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Akash <img src="https://media4.giphy.com/media/PgnpGT8tJsWfNabS8d/giphy.gif" width="50"> 
 
 
-- 🔭 I’m currently doing my bachelors degree
+- 🔭 I've completed my Bachelor's degree in Information Technology. Currently working as an SDET Intern.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Coding...
 
@@ -10,7 +10,7 @@
 
 ### :gear: My skills include:
 
-- **Languages**: `C++`,`C`, `Python`
+- **Languages**: `C++`,`Java`, `Python`
 
 - **Web Technologies**: `Html`,`Css`, `js`
 
